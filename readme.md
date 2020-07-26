@@ -1,0 +1,3 @@
+###**the implementation of multimodal emotion recognizer —— CTCNet which is proposed in "Learning Regional-Level Feature Fusion and Sentiment-Region relevance: A Novel Coupled Three-Components Networks for EEG-based Multimodal Emotion Recognition."**
+
+**Note:** This primary version code mainly enclose the implementation of model, since the data used in our paper, we have no right to redistributed, you can‘t run this code directly. We are trying to  clean up our experimental code. The final runnable version should be uploaded when our paper was accepted. 
